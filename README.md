@@ -124,7 +124,7 @@ A web development project focused on a virtual-tour experience.
 
 ### AI/ML & Python Development Intern — ConglomerateIT Services Pvt. Ltd.
 
-**March 2026 – August 2026 | Hyderabad, Telangana, India**
+**March 8, 2026 – September 8, 2026 | Hyderabad, Telangana, India**
 
 - Python development and AI/ML-related work.
 - Data preprocessing and machine-learning fundamentals.
